@@ -2,10 +2,10 @@ portero
 ===
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.io7m.portero/com.io7m.portero.svg?style=flat-square)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.io7m.portero%22)
-[![Maven Central (snapshot)](https://img.shields.io/nexus/s/https/s01.oss.sonatype.org/com.io7m.portero/com.io7m.portero.svg?style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/io7m/portero/)
+[![Maven Central (snapshot)](https://img.shields.io/nexus/s/com.io7m.portero/com.io7m.portero?server=https%3A%2F%2Fs01.oss.sonatype.org&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/io7m/portero/)
 [![Codecov](https://img.shields.io/codecov/c/github/io7m/portero.svg?style=flat-square)](https://codecov.io/gh/io7m/portero)
 
-![portero](./src/site/resources/portero.jpg?raw=true)
+![com.io7m.portero](./src/site/resources/portero.jpg?raw=true)
 
 | JVM | Platform | Status |
 |-----|----------|--------|
